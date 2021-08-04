@@ -1,6 +1,6 @@
 {
   "name": "rn-zalo-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "<h1 align=\"center\">   <div>     <img src=\"./react-native.png\" height=\"150\" />     <img src=\"./zalo.svg\" width=\"150\" height=\"150\" />   </div>",
   "main": "index.js",
   "directories": {
