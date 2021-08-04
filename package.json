@@ -1,7 +1,7 @@
 {
   "name": "rn-zalo-kit",
   "version": "1.0.0",
-  "description": "first publish",
+  "description": "<h1 align=\"center\">   <div>     <img src=\"./react-native.png\" height=\"150\" />     <img src=\"./zalo.svg\" width=\"150\" height=\"150\" />   </div>",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datpham96/react-native-zalo-kit.git"
+    "url": "git+https://github.com/datpham96/rn-zalo-kit.git"
   },
   "author": "Pham Dat <phamdat22396@gmail.com> (https://google.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/datpham96/react-native-zalo-kit/issues"
+    "url": "https://github.com/datpham96/rn-zalo-kit/issues"
   },
-  "homepage": "https://github.com/datpham96/react-native-zalo-kit#readme"
+  "homepage": "https://github.com/datpham96/rn-zalo-kit#readme"
 }
